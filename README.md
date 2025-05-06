@@ -40,5 +40,5 @@ For detailed methodology, dataset preprocessing, model architecture, and experim
 **Ilfa Shaheed**, **Ria Sanjay**, **Akash Rajasekar**
 
 ## 💡 Acknowledgements
-- Deepfake datasets from [insert dataset name or source].
+- Deepfake datasets from [[140k Real And Fake Faces](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces)].
 - Inspiration from recent advancements in deep learning for image forensics.
