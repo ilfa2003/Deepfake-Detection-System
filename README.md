@@ -50,66 +50,22 @@ Edit
 
 ---
 
-## 🚀 How to Use
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/Deepfake-Detection-System.git
-cd Deepfake-Detection-System
-2. Install Dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-3. Run the Streamlit App
-bash
-Copy
-Edit
-cd streamlit_app
-streamlit run app.py
-Upload an image to classify it as real or fake using the trained model.
-
-🧪 Run Experiments
-To test and compare models:
-
-bash
-Copy
-Edit
-cd notebooks
-jupyter notebook model_comparison.ipynb
-This notebook includes:
-
-Data loading and preprocessing
-
-Training and evaluation of DenseNet-121, InceptionResNetV2, and VGG16
-
-Performance visualization
-
-📄 Research Paper
+## 📄 Research Paper
 For detailed methodology, dataset preprocessing, model architecture, and experimental results, refer to:
+**Novel Technique for a DeepFake Detection System with Transfer Learning using DenseNet-121.pdf**
 
-bash
-Copy
-Edit
-research/deepfake_detection_paper.pdf
-🧠 Tech Stack
-Python, TensorFlow, Keras
-
-DenseNet-121 (customized), InceptionResNetV2, VGG16
-
-Streamlit for UI
-
-Jupyter Notebook for experimentation
+## 🧠 Tech Stack
+- Python, TensorFlow, Keras
+- DenseNet-121 (customized), InceptionResNetV2, VGG16
+- Streamlit for UI
+- Jupyter Notebook for experimentation
 
 ✍️ Authors
-[Your Name]
+[Ilfa Shaheed]
+[Ria Sanjay]
+[Akash Rajasekar]
 
-[Collaborator Name, if any]
-
-📜 License
-This project is licensed under the MIT License.
 
 💡 Acknowledgements
-Deepfake datasets from [insert dataset name or source].
-
-Inspiration from recent advancements in deep learning for image forensics.
+- Deepfake datasets from [insert dataset name or source].
+- Inspiration from recent advancements in deep learning for image forensics.
