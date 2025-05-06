@@ -26,30 +26,6 @@ With the growing threat of manipulated media, deepfake detection has become cruc
 
 ---
 
-## 📁 Repository Structure
-
-Deepfake-Detection-System/
-│
-├── streamlit_app/ # Streamlit-based user interface
-│ └── app.py
-│
-├── notebooks/
-│ └── model_comparison.ipynb # Contains training and testing code
-│
-├── models/ # Saved model weights
-│
-├── research/
-│ └── deepfake_detection_paper.pdf # Project report and findings
-│
-├── README.md
-└── requirements.txt
-
-yaml
-Copy
-Edit
-
----
-
 ## 📄 Research Paper
 For detailed methodology, dataset preprocessing, model architecture, and experimental results, refer to:
 **Novel Technique for a DeepFake Detection System with Transfer Learning using DenseNet-121.pdf**
@@ -60,12 +36,9 @@ For detailed methodology, dataset preprocessing, model architecture, and experim
 - Streamlit for UI
 - Jupyter Notebook for experimentation
 
-✍️ Authors
-[Ilfa Shaheed]
-[Ria Sanjay]
-[Akash Rajasekar]
+## ✍️ Authors
+**Ilfa Shaheed**, **Ria Sanjay**, **Akash Rajasekar**
 
-
-💡 Acknowledgements
+## 💡 Acknowledgements
 - Deepfake datasets from [insert dataset name or source].
 - Inspiration from recent advancements in deep learning for image forensics.
